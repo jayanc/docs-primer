@@ -1,0 +1,7 @@
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+pandas
+flask
+# Or fastapi - for now, let's list flask and can decide to switch later
+# uvicorn # if using fastapi
